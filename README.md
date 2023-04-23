@@ -6,6 +6,11 @@ In Cube Run, the player controls a cube that moves forward automatically. The go
 
 ## SnapShots
 
+![image](https://user-images.githubusercontent.com/44931361/233814116-1003cd46-df66-45b9-a07f-63aefd760020.png)
+
+![image](https://user-images.githubusercontent.com/44931361/233814128-729d4956-c2ae-400e-a94f-e31f01045654.png)
+
+
 ## How to Play
 Use the left and right arrow keys to move the cube left or right
 Avoid obstacles such as spikes, walls, and other obstacles
