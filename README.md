@@ -19,7 +19,6 @@ Try to achieve the highest score possible!
 Installation
 To play Cube Run, download the builds folder from the repository
 
-Once you have Unity installed, you can download the game files from [insert link to game files].
 
 ## Credits
 Cube Run was created by Mahad Ahmed. The game assets were sourced from Unity Engine.
